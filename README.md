@@ -1,6 +1,6 @@
 # Travaux Pratiques Python – Licence 3
 
-## 📘 Présentation générale
+ Présentation générale
 
 Ce dépôt contient l’ensemble des **Travaux Pratiques (TP) de Python – Licence 3**.
 Ces TP ont pour objectif de renforcer progressivement les compétences en programmation Python, depuis les bases du langage jusqu’à la conception d’une application complète orientée objet.
@@ -9,7 +9,7 @@ Les exercices sont conçus à partir de **contextes réels**, afin de développe
 
 ---
 
-## 🎯 Objectifs pédagogiques globaux
+ Objectifs pédagogiques globaux
 
 * Maîtriser les bases du langage Python
 * Comprendre et utiliser les structures de contrôle
@@ -24,7 +24,7 @@ Les exercices sont conçus à partir de **contextes réels**, afin de développe
 
 ---
 
-## 📂 Organisation du dépôt
+Organisation du dépôt
 
 ```
 TP_Python/
@@ -78,7 +78,7 @@ Chaque dossier contient :
 ---
 
 
-## 🧠 Contenu des Travaux Pratiques
+ Contenu des Travaux Pratiques
 
 | TP   | Thème principal                                   |
 | ---- | ------------------------------------------------- |
